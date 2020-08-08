@@ -1,4 +1,4 @@
-arget/
+target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -27,3 +27,4 @@ SalesForceMigration/config.ini
 *.xlsx
 sapnaRails/db/schema.rb
 /bin/
+
